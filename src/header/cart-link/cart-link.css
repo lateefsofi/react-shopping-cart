@@ -1,0 +1,13 @@
+
+.cart-btn{
+    display: inline-block;
+    width: 104px;
+    height: 40px;
+    background: green;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    text-align: left;
+    padding-left: 14px;
+  }
+  
